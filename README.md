@@ -10,4 +10,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about design.
 - 📫 How to reach me: qiuche29@student.wintec.ac.nz
 - 😄 Check out my protfolio:https://github.com/Qiuyi24
-- ⚡ 
