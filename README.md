@@ -4,11 +4,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning IT.
-- 👯 I’m looking to collaborate on Zumba.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I’m currently working on design.
+- 🌱 I’m currently learning Business, Interpersonal Communications and Technical Writing.
+- 👯 I’m looking to collaborate on Zumba APP.
+- 💬 Ask me about design.
 - 📫 How to reach me: qiuche29@student.wintec.ac.nz
-- 😄 Pronouns:(*￣︶￣)
-- ⚡ Fun fact: ...
+- 😄 Check out my protfolio:https://github.com/Qiuyi24
+- ⚡ 
